@@ -1,0 +1,7 @@
+C:\Users\l_lui\Documents\Códigos\CalculadoraConsole\CalculadoraConsole\bin\Debug\CalculadoraConsole.exe.config
+C:\Users\l_lui\Documents\Códigos\CalculadoraConsole\CalculadoraConsole\bin\Debug\CalculadoraConsole.exe
+C:\Users\l_lui\Documents\Códigos\CalculadoraConsole\CalculadoraConsole\bin\Debug\CalculadoraConsole.pdb
+C:\Users\l_lui\Documents\Códigos\CalculadoraConsole\CalculadoraConsole\obj\Debug\CalculadoraConsole.csproj.AssemblyReference.cache
+C:\Users\l_lui\Documents\Códigos\CalculadoraConsole\CalculadoraConsole\obj\Debug\CalculadoraConsole.csproj.CoreCompileInputs.cache
+C:\Users\l_lui\Documents\Códigos\CalculadoraConsole\CalculadoraConsole\obj\Debug\CalculadoraConsole.exe
+C:\Users\l_lui\Documents\Códigos\CalculadoraConsole\CalculadoraConsole\obj\Debug\CalculadoraConsole.pdb
